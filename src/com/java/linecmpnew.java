@@ -8,7 +8,7 @@ public class linecmpnew {
                 System.out.println("Please enter x1");
                 int x1 = scanner.nextInt();
 
-                System.out.println("Please enter y1");
+                System.out.println("Please enter y1 ");
                 int y1 = scanner.nextInt();
 
                 System.out.println("Please enter x2");
