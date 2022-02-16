@@ -23,7 +23,7 @@ public class linecmpnew {
             int val2 = (int) Math.pow((y2-y1), 2);
             int result = (int) Math.sqrt(val1+val2);
            
-            System.out.println("Langth of line = "+result);
+            System.out.println("Langth of line = "+result );
            
             scanner.close();
     }
